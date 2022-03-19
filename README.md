@@ -1,17 +1,27 @@
-# **RR Game** (inspired by River Raid - Atari 1982)
+# **RR Game** - _inspired by River Raid (Atari 1982)_
 
-## Simple game project build in C++ and with the assistance of open source freeglut library
+### Simple game project build in C++ with the assistance of open source **freeglut** library
 
-### Main objective is to shot and eliminated all of the enemies. Player should be also really careful and avoid his opponent shots. Game is finished when all enemies are defeated or player's health went below zero.
+---
 
-#### Building instructions:
+Player's main objective is to eliminate all the enemies. Player should be really careful and avoid the missiles that are fired by hostile units.
+<br /> Game is ended when all opponent's units are destroyed or player's health will drop below zero.
 
--   ##### Open project in Visual Studio - minimum Platform Toolset: Visual Studio 2013 (v120) or newer
--   ##### Build, run, adjust window size and have fun =D
+### Building instructions:
 
-#### How to play:
+- Open project in Visual Studio - minimum "Platform Toolset": Visual Studio 2013 (v120) or newer
+- Build, run, adjust window size and have fun =D
 
--   ###### Move left: "a"
--   ###### Move right: "d"
--   ###### Shot: "p"
--   ###### Exit game: "ESC"
+### How to play:
+
+- Move left: "a"
+- Move right: "d"
+- Shot: "p"
+- Exit game: "ESC"
+
+## Screenshots:
+
+![](https://raw.githubusercontent.com/msochan/RR-game/assets/screenshot1.png)
+![](https://raw.githubusercontent.com/msochan/RR-game/assets/screenshot2.png)
+![](https://raw.githubusercontent.com/msochan/RR-game/assets/screenshot3.png)
+![](https://raw.githubusercontent.com/msochan/RR-game/assets/screenshot4.png)
